@@ -2,7 +2,7 @@
 
 ## Description
 Intent-like single-sentence annotated textual data, the data size is 28,237 sentences, artificially written, and annotated with intent classes, including slot and slot value information; the intent field includes music, weather, date, schedule, home equipment, etc.; it is applied to intent recognition research and related fields.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1029?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/1029?source=Github
 
 
 # Specifications
